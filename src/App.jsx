@@ -18,8 +18,6 @@ function App() {
     setQuote(getRandomQuotes(quotes));
   };
 
-  // console.log(Math.floor(Math.random() * imagesBg.length))
-console.log(Math.floor(Math.random() * imagesBg.length));
 
   return (
     <div
