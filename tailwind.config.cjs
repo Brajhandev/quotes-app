@@ -14,10 +14,10 @@ module.exports = {
         letters: '#25063F'
       },
       backgroundImage: {
-        bg1: "url('./src/assets/fondo1.jpg')",
-        bg2: "url('./src/assets/fondo2.jpg')",
-        bg3: "url('./src/assets/fondo3.jpg')",
-        bg4: "url('./src/assets/fondo4.jpg')"
+        bg1: "url('../src/assets/fondo1.jpg')",
+        bg2: "url('../src/assets/fondo2.jpg')",
+        bg3: "url('../src/assets/fondo3.jpg')",
+        bg4: "url('../src/assets/fondo4.jpg')"
       }
     },
   },
